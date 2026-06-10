@@ -32,31 +32,6 @@ Less demo, more shipped. 把想法尽快变成能用的东西，比 demo 更重�
 
 ---
 
-## 🚀 Featured Projects
-
-> A glimpse of what I've been building lately. 想看更多请翻仓库列表 👇
-
-### 🌉 [ActionBridge — AI-Powered](https://github.com/theAtlantic-zza/ActionBridge-AI-Powered)
-> **Turn messy team chats into actionable follow-ups — so nothing slips through.**
->
-> An AI execution-loop assistant that listens to chaotic team discussions and extracts structured, trackable action items. Built for teams that talk a lot but forget faster.
->
-> `TypeScript` · `React` · `LLM` · `Action Tracking`
-
-### 🐧 [Tencent Intern: Penguin Survival Story](https://github.com/theAtlantic-zza/Tencent-Intern-Penguin-Survival-Story)
-> **Live 41 events as a Tencent intern. Will you survive, get promoted, or just leak corporate secrets?**
->
-> A "Life Restart"-style narrative game with 5 professions, 5 talents, 41 random events, 10 endings, and 8 achievements. A loving parody of internship life — with a tiny bit of truth in it.
->
-> `Vite` · `React` · `Tailwind` · `Zustand` · `WebAudio`
-
-### 💊 [Meituan AI Coding Test — Chronic Med Care](https://github.com/theAtlantic-zza/meituan-ai-coding-test--chronic-med-care)
-> **A medication companion for chronic patients — reminders, refills, and drug-interaction checks in one place.**
->
-> Medication plans, check-in nudges, refill countdowns, drug-interaction lookup (BYOK + Mock), simulated device data sync, care mode for elderly users, and prescription photo recognition.
->
-> `TypeScript` · `React` · `BYOK + Mock` · `Healthcare`
-
 ---
 
 ## 🛠️ Tech Stack
@@ -92,12 +67,6 @@ Less demo, more shipped. 把想法尽快变成能用的东西，比 demo 更重�
 </p>
 
 ---
-
-## 🌱 What's Next
-
-- [ ] More agent-driven side tools, less hand-coded glue
-- [ ] Open-source one of the AI experiments end-to-end
-- [ ] Write down what I learn — ship it, then explain it
 
 ---
 
