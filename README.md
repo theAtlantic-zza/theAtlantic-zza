@@ -67,8 +67,8 @@ reliable enough to actually do work, not just chat about it. If that resonates, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theAtlantic-zza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=theAtlantic-zza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theAtlantic-zza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theAtlantic-zza&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Streak" />
 </p>
 
 ---
