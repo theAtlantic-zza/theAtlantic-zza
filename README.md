@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <i>Ethan Zhao · 赵子昂 (Ziang Zhao)</i><br/>
+  <i>Ethan Zhao · Ziang Zhao</i><br/>
   <i>Just going on —— 一边写代码，一边把生活里的小麻烦改成小工具。</i>
 </p>
 
