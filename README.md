@@ -21,19 +21,13 @@
 ## 🧭 About Me
 
 ```yaml
-🎯 Now      : Building small AI tools that actually solve daily annoyances
-🌱 Learning : Agent workflows, harness engineering, and shipping faster
+🎯 Now      : Building small AI tools that actually ship
+🌱 Learning : Agent workflows & harness engineering
 💬 Ask me   : AI products, indie hacking, or anything fun
-⚡ Fun fact : I built a game where you survive as a Tencent intern
+⚡ Fun fact : I built a game about surviving a Tencent internship
 ```
 
-I'm Ethan — a developer obsessed with **turning daily annoyances into shipped code**.
-Whether it's a medication reminder for chronic patients, an AI that pulls action items
-out of messy team chats, or a satirical game about internship life — my projects share
-one rule: **less demo, more shipped.**
-
-Currently digging into **agent workflows and harness engineering** — making LLMs
-reliable enough to actually do work, not just chat about it. If that resonates, let's talk.
+Less demo, more shipped. 把想法尽快变成能用的东西。
 
 <p>
   <a href="https://tencentpenguininternsurvival.zh-cn.edgeone.run/?eo_token=e1a935955a4ea818bd1b0663a464d425&eo_time=1781060231">
