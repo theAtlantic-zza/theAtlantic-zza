@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <i>Ethan Zhao · Ziang Zhao</i><br/>
+  <i>Ethan Zhao · 赵子昂 (Ziang Zhao)</i><br/>
   <i>Just going on —— 一边写代码，一边把生活里的小麻烦改成小工具。</i>
 </p>
 
@@ -27,10 +27,47 @@
 ⚡ Fun fact : I built a game where you survive as a Tencent intern
 ```
 
-I treat every side project as a chance to **make something useful + a little weird**.
-Less demo, more shipped. 把想法尽快变成能用的东西，比 demo 更重要。
+I'm Ethan — a developer obsessed with **turning daily annoyances into shipped code**.
+Whether it's a medication reminder for chronic patients, an AI that pulls action items
+out of messy team chats, or a satirical game about internship life — my projects share
+one rule: **less demo, more shipped.**
+
+Currently digging into **agent workflows and harness engineering** — making LLMs
+reliable enough to actually do work, not just chat about it. If that resonates, let's talk.
 
 ---
+
+## 🚀 Featured Projects
+
+> A glimpse of what I've been building lately. 想看更多请翻仓库列表 👇
+
+### 🌉 [ActionBridge — AI-Powered](https://github.com/theAtlantic-zza/ActionBridge-AI-Powered)
+> **Turn messy team chats into actionable follow-ups — so nothing slips through.**
+>
+> An AI execution-loop assistant that listens to chaotic team discussions and extracts structured, trackable action items. Built for teams that talk a lot but forget faster.
+>
+> `TypeScript` · `React` · `LLM` · `Action Tracking`
+
+### 🐧 [Tencent Intern: Penguin Survival Story](https://github.com/theAtlantic-zza/Tencent-Intern-Penguin-Survival-Story)
+> **Live 41 events as a Tencent intern. Will you survive, get promoted, or just leak corporate secrets?**
+>
+> A "Life Restart"-style narrative game with 5 professions, 5 talents, 41 random events, 10 endings, and 8 achievements. A loving parody of internship life — with a tiny bit of truth in it.
+>
+> <a href="https://tencentpenguininternsurvival.zh-cn.edgeone.run/?eo_token=e1a935955a4ea818bd1b0663a464d425&eo_time=1781060231">
+>   <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Play%20Now-Live%20Demo-success?style=for-the-badge" alt="Play Now" />
+> </a>
+> <a href="https://github.com/theAtlantic-zza/Tencent-Intern-Penguin-Survival-Story">
+>   <img src="https://img.shields.io/badge/%E2%AD%90%20Source-GitHub-181717?style=for-the-badge&logo=github" alt="Source" />
+> </a>
+>
+> `Vite` · `React` · `Tailwind` · `Zustand` · `WebAudio`
+
+### 💊 [Meituan AI Coding Test — Chronic Med Care](https://github.com/theAtlantic-zza/meituan-ai-coding-test--chronic-med-care)
+> **A medication companion for chronic patients — reminders, refills, and drug-interaction checks in one place.**
+>
+> Medication plans, check-in nudges, refill countdowns, drug-interaction lookup (BYOK + Mock), simulated device data sync, care mode for elderly users, and prescription photo recognition.
+>
+> `TypeScript` · `React` · `BYOK + Mock` · `Healthcare`
 
 ---
 
@@ -67,6 +104,20 @@ Less demo, more shipped. 把想法尽快变成能用的东西，比 demo 更重�
 </p>
 
 ---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=theAtlantic-zza&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🌱 What's Next
+
+- [ ] More agent-driven side tools, less hand-coded glue
+- [ ] Open-source one of the AI experiments end-to-end
+- [ ] Write down what I learn — ship it, then explain it
 
 ---
 
