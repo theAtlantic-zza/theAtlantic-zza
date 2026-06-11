@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <i>Ethan · Ziang</i><br/>
+  <i>Ziang Zhao</i><br/>
   <i>Just going on —— I turn real-life friction into small, useful AI products.</i>
 </p>
 
