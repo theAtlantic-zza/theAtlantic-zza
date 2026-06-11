@@ -6,7 +6,7 @@
 
 <p align="center">
   <i>Ethan Zhao · Ziang Zhao</i><br/>
-  <i>Just going on —— 一边写代码，一边把生活里的小麻烦改成小工具。</i>
+  <i>Just going on —— I turn real-life friction into small, useful AI products.</i>
 </p>
 
 <p align="center">
