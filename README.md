@@ -1,12 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Ethan+Zhao+%F0%9F%91%8B;Building+small+AI+tools+that+ship.;%E4%B8%80%E8%BE%B9%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%8C%E4%B8%80%E8%BE%B9%E6%8A%8A%E7%94%9F%E6%B4%BB%E6%94%B9%E6%88%90%E5%B0%8F%E5%B7%A5%E5%85%B7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Ethan+Zhao+%F0%9F%91%8B;Building+small+AI+tools+that+ship.;Turning+real-world+friction+into+useful+products." alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  <i>Ethan Zhao · 赵子昂 (Ziang Zhao)</i><br/>
-  <i>Just going on —— 一边写代码，一边把生活里的小麻烦改成小工具。</i>
+  <i>Ethan Zhao · Ziang Zhao</i><br/>
+  <i>Just going on — turning real-world friction into small, useful AI products.</i>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 ⚡ Fun fact : I built a game about surviving a Tencent internship
 ```
 
-Less demo, more shipped. 把想法尽快变成能用的东西。
+Less demo, more shipped.
 
 <p>
   <a href="https://tencentpenguininternsurvival.zh-cn.edgeone.run/?eo_token=e1a935955a4ea818bd1b0663a464d425&eo_time=1781060231">
