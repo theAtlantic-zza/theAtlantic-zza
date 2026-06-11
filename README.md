@@ -1,11 +1,11 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Ethan+Zhao+%F0%9F%91%8B;Building+small+AI+tools+that+ship.;Turning+real-world+friction+into+useful+products." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Ziang+Zhao+%F0%9F%91%8B;Building+small+AI+tools+that+ship.;Turning+real-world+friction+into+useful+products." alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  <i>Ethan Zhao · Ziang Zhao</i><br/>
+  <i>Ziang Zhao</i><br/>
   <i>Just going on — turning real-world friction into small, useful AI products.</i>
 </p>
 
