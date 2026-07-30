@@ -71,7 +71,7 @@ Less demo, more shipped.
 
 <p align="center">
   <a href="https://github.com/theAtlantic-zza">
-    <img width="70%" src="https://streak-stats.demolab.com?user=theAtlantic-zza&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theAtlantic-zza&theme=tokyonight" alt="GitHub Contribution Details" />
   </a>
 </p>
 
