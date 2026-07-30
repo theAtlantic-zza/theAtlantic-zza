@@ -62,10 +62,16 @@ Less demo, more shipped.
 
 <p align="center">
   <a href="https://github.com/theAtlantic-zza">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theAtlantic-zza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theAtlantic-zza&theme=tokyonight" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/theAtlantic-zza">
-    <img height="165" src="https://streak-stats.demolab.com?user=theAtlantic-zza&theme=tokyonight&hide_border=true&card_width=380" alt="GitHub Streak" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theAtlantic-zza&theme=tokyonight" alt="Top Languages by Repository" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/theAtlantic-zza">
+    <img width="70%" src="https://streak-stats.demolab.com?user=theAtlantic-zza&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
   </a>
 </p>
 
